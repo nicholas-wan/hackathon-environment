@@ -1,5 +1,5 @@
 # Yale NUS Hack4Climate (https://hack4climate.live/)
-# Our Website (https://github.com/nicholas-wan/ync-hackathon/)
+# Website (https://github.com/nicholas-wan/ync-hackathon/)
 ## Winner of Datathon Track
 
 In this Hackathon, we created visualizations to attribute responsibility to different actors: Sectors, Countries and Cities. 
