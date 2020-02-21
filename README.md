@@ -8,6 +8,6 @@ In this Hackathon, we created visualizations to attribute responsibility to diff
 3. Under Cities, we are also looking at what are possible cities that are similar to one another and therefore can learn from each other. Using SpaCy to mine keywords associated to each cities, we used the keywords as well as the demographics of the cities to compare and pick put similar cities. We hope that by choosing cities that are of similar condition and focus, they could learn from each other's solution and implementation to tackle climate problems
 
 ### Acknowledgements
-Randy Julian
-Nicklaus Ong
-Lee Yen Ter
+* Randy Julian
+* Nicklaus Ong
+* Lee Yen Ter
