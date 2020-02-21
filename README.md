@@ -1,4 +1,4 @@
-# Yale NUS Hack4Climate (https://hack4climate.live/)
+## Yale NUS Hack4Climate (https://hack4climate.live/)
 ### Website (bit.ly/yale-blizzard)
 ### Winner of Datathon Track
 
