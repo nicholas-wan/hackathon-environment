@@ -1,6 +1,6 @@
 # Yale NUS Hack4Climate (https://hack4climate.live/)
-# Website (bit.ly/blizzard-yale)
-## Winner of Datathon Track
+### Website (bit.ly/yale-blizzard)
+### Winner of Datathon Track
 
 In this Hackathon, we created visualizations to attribute responsibility to different actors: Sectors, Countries and Cities. 
 1. Under Sectors, we created stacked bar charts to compare the countries' current greenhouse gas contributing sectors and compare them to the sectors that they commited to reduce under Intended Nationally Determined Contributions (INDC). The main purpose is to see the gap between their current contribution and their commitment to understand the extent of genuine climate action by the country. 
